@@ -5,7 +5,7 @@ Soruda verilen senaryoyu go/no go ve birden fazla ihtimalli olarak 2 farklı dur
 ---
 
 ## Soru 2:
-Senaryo için önceden çalıştığım şirketlerin sistemlerinden hatırladıklarımı ve yaptığım araştırmaları kullanarak uluslararası taşımacılık yapan bir lojistik firmasının prim sistemi için dinamik yapılı excel tablosu oluşturdum. Türkiye genel merkezi ile farklı yurt dışı şubeleri arasında gerçekleşen muhtemel taşıma operasyonları kurgulayarak, elde edilen kârın şubeler ve merkez arasında dağıtılmasını sağlayan esnek bir gelir paylaşım modeli tasarladım. İş modelindeki parametrelerin değişen ticari koşullara anında uyum sağlayabilmesi adına tüm yapı dinamik değişkenlerle oluşturuldu. Hazırladığım **“OBilet_CaseStudy_2.Soru.xlsx”** excel dosyasında, şubelerin operasyonlardaki rolleri ve kârlılığa katkılarını simüle ettim. Detaylı tabloları ve değişkenleri buraya ekledim.
+Senaryo için önceden çalıştığım şirketlerin sistemlerinden hatırladıklarımı ve yaptığım araştırmaları kullanarak uluslararası taşımacılık yapan bir lojistik firmasının prim sistemi için dinamik yapılı excel tablosu oluşturdum. Türkiye genel merkezi ile farklı yurt dışı şubeleri arasında gerçekleşen muhtemel taşıma operasyonları kurgulayarak, elde edilen kârın şubeler ve merkez arasında dağıtılmasını sağlayan esnek bir performans gelir paylaşım modeli tasarladım. İş modelindeki parametrelerin değişen ticari koşullara anında uyum sağlayabilmesi adına tüm yapı dinamik değişkenlerle oluşturuldu. Hazırladığım **“OBilet_CaseStudy_2.Soru.xlsx”** excel dosyasında, şubelerin operasyonlardaki rolleri ve kârlılığa katkılarını simüle ettim. Detaylı tabloları ve değişkenleri buraya ekledim.
 
 ---
 
